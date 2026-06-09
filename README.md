@@ -34,4 +34,4 @@ To put my knowledge into practice and continuously grow, I am currently heavily 
 ## 📊 Featured DevOps Work
 
 ### 🌟 Open Source & Projects
-* 🛠️ **[CareerOS Web — CI/CD Refactor](https://github.com/YOUR_GITHUB_ORGANIZATION_OR_REPO)**: Refactored GitHub Actions workflows, optimized the build and linting processes, and resolved complex dependency caching mechanisms (`package-lock.json`).
+* 🛠️ **[CareerOS Web — CI/CD Refactor](https://github.com/Careers-Os/careeros-web/pull/7)**: Refactored GitHub Actions workflows, optimized the build and linting processes, and resolved complex dependency caching mechanisms (`package-lock.json`).
